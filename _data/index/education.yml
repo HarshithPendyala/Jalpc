@@ -1,0 +1,43 @@
+
+- name:
+    detail: Sreenidhi Institute of Science and Technology (SNIST)
+    i18n: company_a
+  desc:
+    detail: Electronics and Computer Engineering || CGPA 8.9
+    i18n: company_a_desc
+  date:
+    detail: May. 2020
+    i18n: company_a_date
+  job:
+    detail: Bachelor of Technology (B.Tech)
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Narayana Junior College
+    i18n: company_b
+  desc:
+    detail: Percentage 93
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2016
+    i18n: company_b_date
+  job:
+    detail: Board of Intermediate Education
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: The Secunderabad Public School
+    i18n: company_b
+  desc:
+    detail: CGPA 8.8
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2014
+    i18n: company_b_date
+  job:
+    detail: Central Board of Secondary Education
+    i18n: company_b_job
+  icon: fa-plus-square  

@@ -19,7 +19,6 @@
   "homepage": "https://github.com/jarrekk/Jalpc#readme",
   "dependencies": {
     "animate.css": "^3.5.2",
-    "bootstrap": "^3.3.6",
     "chart.js": "^2.4.0",
     "colors": "^1.1.2",
     "components-font-awesome": "^4.7.0",
@@ -35,6 +34,7 @@
     "wowjs": "^1.1.2"
   },
   "devDependencies": {
+    "bootstrap": "^3.4.1",
     "clean-css": "^4.0.6",
     "shelljs": "^0.8.3",
     "uglify-js": "^2.7.5"
