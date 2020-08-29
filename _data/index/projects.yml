@@ -5,20 +5,20 @@
   i18n: jalpc
   gh_user: HarsithPendyala
   repo: 
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  img: /static/assets/img/landing/op8.gif
+  desc: Detection and Classification of Traffic Signs in natural scene images using Computer Vision and Convoltional Neural Networks
 
-- name: Python
+- name: Drowsiness Detection
   i18n: cpython
   gh_user: python
-  repo: cpython
+  repo: 
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Detecting prolonged closing of eye (infers drowsiness) in long haul truck drivers
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+# - name: Google
+#   i18n: google
+#   url: https://google.com
+#   img: /static/assets/img/landing/google.png
+#   desc: This is another project.
 
 
