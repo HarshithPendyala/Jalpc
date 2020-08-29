@@ -3,8 +3,8 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Traffic Sign Detection using Convolutional Neural Networks
   i18n: jalpc
-  gh_user: HarsithPendyala
-  repo: 
+  gh_user: HarshithPendyala
+  repo: Traffic_Sign_Recognition
   img: /static/assets/img/landing/op8.gif
   desc: Detection and Classification of Traffic Signs in natural scene images using Computer Vision and Convoltional Neural Networks
 
