@@ -10,10 +10,10 @@
 
 - name: Drowsiness Detection
   i18n: cpython
-  gh_user: python
-  repo: 
-  img: /static/assets/img/landing/python.png
-  desc: Detecting prolonged closing of eye (infers drowsiness) in long haul truck drivers
+  gh_user: HarshithPendyala
+  repo: Drowsiness_Detection
+  img: /static/assets/img/landing/output.gif
+  desc: Detecting prolonged closing of eyes (infers drowsiness), using Image processing and python.
 
 # - name: Google
 #   i18n: google
